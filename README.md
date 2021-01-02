@@ -11,4 +11,4 @@
 
 | LINK |
 |------|
-|[Leetcode remove-duplicates-from-sorted-array](https://github.com/ravish0007/log-of-learning/tree/main/notesnotes-02-jan-2021.md#1---leetcode-remove-duplicates-from-sorted-array) |
+|[Leetcode remove-duplicates-from-sorted-array](https://github.com/ravish0007/log-of-learning/tree/main/notes/notes-02-jan-2021.md#1---leetcode-remove-duplicates-from-sorted-array) |
