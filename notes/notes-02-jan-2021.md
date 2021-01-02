@@ -1,6 +1,6 @@
 # 01-jan-2021
 
-### leetcode remove-duplicates-from-sorted-array
+### 1 - leetcode remove-duplicates-from-sorted-array
 
 
 - Algorithm
