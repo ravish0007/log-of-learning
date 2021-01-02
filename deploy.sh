@@ -1,8 +1,10 @@
+#!/bin/bash
+
 git fetch
 echo "fetched"
 git pull
 echo "pulled"
-python3 readme_generator.py
+python3 readme_gen.py
 echo "created readme"
 git add notes/* deploy.sh README.md
 echo "added new files"
