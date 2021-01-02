@@ -6,7 +6,7 @@ git pull
 echo "pulled"
 python3 readme_gen.py
 echo "created readme"
-git add notes/* deploy.sh README.md
+git add notes/* deploy.sh README.md readme_gen.py
 echo "added new files"
 git commit -m "auto-update"
 echo "commited"
