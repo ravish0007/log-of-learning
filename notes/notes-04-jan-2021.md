@@ -1,6 +1,6 @@
 # 01-jan-2021
 
-### 1 - binarysearch  top view
+### 1 - binarysearch Tree top view
 
 
 - Algorithm
