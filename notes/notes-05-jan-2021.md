@@ -3,10 +3,10 @@
 ### 1 - AGILE
 
 
-Individuals and interactions over processes and tools
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
-Responding to change over following a plan
+Individuals and interactions over processes and tools <br>
+Working software over comprehensive documentation <br>
+Customer collaboration over contract negotiation <br>
+Responding to change over following a plan <br>
 
 
 ### 2 - binary search tree vertical lines
